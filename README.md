@@ -1,6 +1,6 @@
 # Awesome AI Agents
 
-A curated list of awesome AI agent collections, skills frameworks, and related resources for coding agents (Claude Code, Cursor, Codex, OpenCode, Gemini CLI, etc.).
+A curated list of awesome AI agent collections, skills frameworks, LLMs, and related resources for coding agents (Claude Code, Cursor, Codex, OpenCode, Gemini CLI, OpenClaw, etc.).
 
 > Last updated: March 2026
 
@@ -10,8 +10,12 @@ A curated list of awesome AI agent collections, skills frameworks, and related r
 
 - [Agent Personas & Role Collections](#agent-personas--role-collections)
 - [Skills & Workflow Frameworks](#skills--workflow-frameworks)
+- [Agent Development Frameworks](#agent-development-frameworks)
+- [OpenClaw Ecosystem](#openclaw-ecosystem)
+- [MCP & Tool Ecosystem](#mcp--tool-ecosystem)
 - [Agent Framework Collections](#agent-framework-collections)
 - [Skills Libraries](#skills-libraries)
+- [LLM Models & Use Cases](#llm-models--use-cases)
 - [Related Resources](#related-resources)
 
 ---
@@ -40,16 +44,71 @@ Composable skill systems and development methodologies that teach agents *how* t
 
 ---
 
+## Agent Development Frameworks
+
+SDKs, platforms, and tools for building AI agents. Essential references for anyone building agents.
+
+| Project | Stars | Description | When to Use |
+|---------|-------|-------------|-------------|
+| [**LangChain / LangGraph**](https://github.com/langchain-ai/langchain) | ~130k+ | De facto standard for Agent frameworks. Multi-agent, tool calling, memory, RAG — full stack. Deep Agents runtime for planning & context isolation. | Almost everyone building agents should check this first |
+| [**OpenClaw**](https://github.com/openclaw/openclaw) | **330k+** | Personal AI assistant on your own devices. 25+ messaging channels, SOUL.md/AGENTS.md, ClawHub skills. Fastest-growing agent project in 2025–2026. | Self-hosted personal assistant, multi-channel AI |
+| [**n8n**](https://github.com/n8n-io/n8n) | ~160k+ | Low-code workflow + native AI Agent support. Best self-hosted option for automation. | Production automation / AI workflows |
+| [**Dify**](https://github.com/langgenius/dify) | ~110k–130k+ | Open-source "production-grade Agent workflow platform." Complete UI + backend. | Fast product delivery / enterprise internal use |
+| [**Langflow**](https://github.com/langflow-ai/langflow) | ~140k+ | Visual drag-and-drop Agent & RAG builder. Most user-friendly low-code tool. | Prototyping / non-coders |
+| [**Microsoft Agent Framework**](https://github.com/microsoft/agent-framework) | ~8k+ | Python + .NET. Graph workflows, checkpointing, MCP, human-in-the-loop. RC as of 2026. | Enterprise .NET/Python multi-agent apps |
+| [**Llama Index**](https://github.com/run-llama/llama_index) | ~48k+ | Data framework for LLM apps. 160+ data sources, RAG, tool abstraction, ReAct. | RAG apps, document agents, private data |
+| [**Pydantic AI**](https://github.com/pydantic/pydantic-ai) | ~15k+ | Type-safe Python agent framework. Pydantic way. Stable V1. | Production-grade, type-safe agents |
+| [**OpenAI Agents SDK**](https://github.com/openai/openai-agents-python) | ~20k+ | Lightweight multi-agent framework. Handoffs, MCP, guardrails, sessions. 100+ LLM support beyond OpenAI. | Quick production agents, OpenAI ecosystem |
+| [**AutoGPT**](https://github.com/Significant-Gravitas/AutoGPT) | ~160k (peak) | Earliest fully autonomous Agent that went viral. Groundbreaking. | Understanding Agent history and philosophy |
+| [**AutoGen**](https://github.com/microsoft/autogen) | ~50k–60k+ | Microsoft multi-agent conversational framework. Strong for research & complex collaboration. | Multi-agent systems research |
+| [**CrewAI**](https://github.com/crewai/crewai) | High activity | Role-based multi-agent orchestration. Simplest and most intuitive. 2–4h from concept to demo. | Quick multi-agent team assembly |
+| [**OpenHands**](https://github.com/All-Hands-AI/OpenHands) *(formerly OpenDevin)* | ~60k+ | Strongest open-source "AI Software Engineer" Agent. Writes code, fixes bugs. | Coding Agent / SWE-agent direction |
+| [**mini-swe-agent**](https://github.com/SWE-agent/mini-swe-agent) | Rising | ~100-line agent, >74% SWE-bench Verified. Used by Meta, NVIDIA, Stanford. Minimal config. | Lightweight coding agent, GitHub issues |
+| [**MetaGPT**](https://github.com/FoundationAgents/MetaGPT) | ~60k+ | Simulates a software company with SOPs. Multi-role division of labor. | Experiencing the "AI company" concept |
+| [**XAgent**](https://github.com/OpenBMB/XAgent) | ~8.5k+ | Autonomous complex-task solver. Task decomposition, tool learning, error recovery. | Complex autonomous tasks |
+| [**AgentVerse**](https://github.com/OpenBMB/AgentVerse) | ~5k+ | Multi-agent simulation environment. ICLR 2024. Task-solving + social simulation. | Multi-agent collaboration research |
+| [**Agent S / Simular**](https://github.com/simular-ai/Agent-S) | Rising fast | Agent that "uses computers like a human" (OSWorld SOTA). | Computer-use / GUI control |
+| [**Embedchain**](https://github.com/embedchain/embedchain) | ~50k+ | ChatGPT-like RAG framework. Multi-source ingestion, multi-LLM. | Quick RAG / chatbot apps |
+
+---
+
+## OpenClaw Ecosystem
+
+[OpenClaw](https://github.com/openclaw/openclaw) (330k+ stars) is the fastest-growing AI agent project. Key ecosystem resources:
+
+| Resource | Description |
+|----------|-------------|
+| [**OpenClaw**](https://github.com/openclaw/openclaw) | Core: personal AI assistant, any OS, 25+ channels (WhatsApp, Telegram, Slack, etc.), SOUL.md, voice/audio. |
+| [**ClawHub**](https://claw-hub.net/) | Official skill marketplace. 3,200+ skills, vector search, CLI install. "npm for AI agents." |
+| [**CrewClaw**](https://crewclaw.com/) | Visual agent configurator. 100+ role templates, generates SOUL.md. Deploy in 60 seconds. |
+| [**awesome-openclaw-agents**](https://github.com/mergisi/awesome-openclaw-agents) | 160+ SOUL.md templates, 24 categories. |
+| [**awesome-openclaw-skills**](https://github.com/sundial-org/awesome-openclaw-skills) | 913 curated skills. |
+
+---
+
+## MCP & Tool Ecosystem
+
+Model Context Protocol (MCP) extends agents with external tools and data.
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**awesome-mcp-servers**](https://github.com/wong2/awesome-mcp-servers) | ~3.7k+ | Curated MCP server list. 380+ contributors. |
+| [**mcp-awesome.com**](https://mcp-awesome.com/) | - | 1,200+ quality-verified MCP servers. |
+| [**awesome-remote-mcp-servers**](https://github.com/jaw9c/awesome-remote-mcp-servers) | - | Remote MCP servers with OAuth/API key auth. |
+
+---
+
 ## Agent Framework Collections
 
 Curated lists of AI agent development frameworks and tools.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [**awesome-llm-agents**](https://github.com/kaushikb11/awesome-llm-agents) | 1.3k+ | Comprehensive LLM agent frameworks: CrewAI, LangChain, AutoGen, Dify, Llama Index, and 100+ more. Categorized by type. |
-| [**Awesome-Agent-Framework**](https://github.com/AgentSpaceAI/Awesome-Agent-Framework) | - | Curated collection of popular Agent development frameworks. |
-| [**awesome-ai-agent-frameworks**](https://github.com/axioma-ai-labs/awesome-ai-agent-frameworks) | - | AI agent framework comparisons and resources. |
-| [**awesome-agents**](https://github.com/Scottcjn/awesome-agents) | - | Collection of AI agent projects and resources. |
+| [**awesome-llm-agents**](https://github.com/kaushikb11/awesome-llm-agents) | 1.3k+ | Comprehensive LLM agent frameworks: CrewAI, LangChain, AutoGen, Dify, Llama Index, 100+ more. |
+| [**Awesome-LLM-Resources**](https://github.com/John-Dekka/Awesome-LLM-Resources) | - | Learning-focused. Beginners to advanced. Frameworks, RAG, agents, fine-tuning, deployment. |
+| [**Awesome-Agent-Framework**](https://github.com/AgentSpaceAI/Awesome-Agent-Framework) | - | Curated popular Agent frameworks. |
+| [**awesome-ai-agent-frameworks**](https://github.com/axioma-ai-labs/awesome-ai-agent-frameworks) | - | AI agent framework comparisons. |
+| [**awesome-agents**](https://github.com/Scottcjn/awesome-agents) | - | AI agent projects and resources. |
 
 ---
 
@@ -59,8 +118,27 @@ Domain-specific skill packages for extending agent capabilities.
 
 | Project | Description |
 |---------|-------------|
-| [**agents-skills**](https://github.com/BrunoAlan/agents-skills) | Skills for TypeScript, React, Next.js, Tailwind, testing frameworks. Follows open agent skills standard. |
-| [**agent-skills**](https://github.com/chriscox/agent-skills) | Reusable skills: project-planner, docs-sync for GitHub issues and documentation. |
+| [**agents-skills**](https://github.com/BrunoAlan/agents-skills) | TypeScript, React, Next.js, Tailwind, testing. Open agent skills standard. |
+| [**agent-skills**](https://github.com/chriscox/agent-skills) | project-planner, docs-sync for GitHub issues and docs. |
+
+---
+
+## LLM Models & Use Cases
+
+Top models in 2026 and when to use them. No single model wins everywhere — match to your task.
+
+| Model | Provider | Best For | Notes |
+|-------|----------|----------|-------|
+| **Claude 4 Opus / Sonnet 4.6** | Anthropic | **Coding**, long documents, complex reasoning | SWE-bench Verified 72.7%, 200K+ context |
+| **GPT-5 / 5.2 / 5.4** | OpenAI | **All-rounder**: creative, research, coding, voice | 128K–1M context, versatile |
+| **Gemini 3.1 Pro** | Google | **Multimodal**: video, audio, images, text | 1M-token context, ARC-AGI-2 top |
+| **DeepSeek R1 / V3.2** | DeepSeek | **Value**: frontier intelligence at ~97% lower cost | $0.28/$0.42 per 1M tokens, MIT, self-host |
+| **Llama 4 Maverick** | Meta | **Multimodal + long context** | Vision + 10M context |
+| **Qwen 2.5 / 3** | Alibaba | **Coding**, multilingual | 92% HumanEval |
+| **GLM-5** | Zhipu AI | **Overall performance** | Strong Chinese support |
+| **Grok 3 / 4** | xAI | **Balanced**, open access | Real-time data |
+| **Mistral Large** | Mistral | **European languages**, alternative | Strong multilingual |
+| **Gemma 3** | Google | **Open weights**, efficient | Good for fine-tuning |
 
 ---
 
@@ -68,9 +146,9 @@ Domain-specific skill packages for extending agent capabilities.
 
 | Resource | Description |
 |----------|-------------|
-| [**OpenClaw**](https://github.com/openclaw-ai/openclaw) | Open-source AI agent platform with SOUL.md, AGENTS.md, and skills ecosystem. |
-| [**Agent Skills Standard**](https://cursor.com/docs/skills) | Cursor's agent skills format (SKILL.md) — compatible across Claude, Codex, Cursor. |
+| [**Agent Skills Standard**](https://cursor.com/docs/skills) | Cursor SKILL.md format — compatible across Claude, Codex, Cursor. |
 | [**agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) | Chinese translation of The Agency (100 agents + 9 China-market originals). |
+| [**agent-teams**](https://github.com/dsclca12/agent-teams) | Independent Agency translation with Bilibili, WeChat, Xiaohongshu localization. |
 
 ---
 
@@ -80,7 +158,7 @@ Domain-specific skill packages for extending agent capabilities.
 |------|----------|-------|
 | **Personas** | agency-agents, awesome-openclaw-agents | *Who* the agent is — role, personality, domain expertise |
 | **Skills** | Superpowers, claude-skills, agent-skills | *How* the agent works — workflows, processes, methodologies |
-| **Frameworks** | awesome-llm-agents, CrewAI, LangChain | *What* infrastructure — SDKs, orchestration, tooling |
+| **Frameworks** | LangChain, CrewAI, OpenClaw | *What* infrastructure — SDKs, orchestration, tooling |
 
 ---
 
