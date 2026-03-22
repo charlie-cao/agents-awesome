@@ -16,6 +16,7 @@ A curated list of awesome AI agent collections, skills frameworks, LLMs, and rel
 - [Agent Framework Collections](#agent-framework-collections)
 - [Skills Libraries](#skills-libraries)
 - [LLM Models & Use Cases](#llm-models--use-cases)
+- [AI Application Scenarios](#ai-application-scenarios)
 - [Related Resources](#related-resources)
 
 ---
@@ -139,6 +140,58 @@ Top models in 2026 and when to use them. No single model wins everywhere — mat
 | **Grok 3 / 4** | xAI | **Balanced**, open access | Real-time data |
 | **Mistral Large** | Mistral | **European languages**, alternative | Strong multilingual |
 | **Gemma 3** | Google | **Open weights**, efficient | Good for fine-tuning |
+
+---
+
+## AI Application Scenarios
+
+Open-source projects for specific AI application domains: digital humans, short drama, audiobooks, video generation, and more.
+
+### Digital Humans (数字人)
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**SadTalker**](https://github.com/OpenTalker/SadTalker) | ~14k+ | CVPR 2023. Single portrait + audio → talking head video. Lip sync, Apache 2.0. Hugging Face, Colab. |
+| [**Ultralight Digital Human**](https://github.com/anliyuan/Ultralight-Digital-Human) | ~2.4k+ | Lightweight digital human, real-time on mobile. Self-training, WeNet/HuBERT audio encoders. |
+| [**Tencent Hunyuan Digital Human**](https://github.com/Tencent/digitalhuman) | ~300+ | Hunyuan AI digital human. Python-based. |
+| [**LAM (Large Avatar Model)**](https://github.com/aigc3d/LAM) | ~940+ | Alibaba Tongyi. Single image → 3D interactive chat avatar in seconds. SIGGRAPH 2025. WebGL, audio-driven. |
+| [**LHM++**](https://github.com/aigc3d/LHM-plusplus) | - | Large Human Reconstruction. Image → 3D head, 0.79s inference. Apache 2.0. |
+
+### Short Drama (短剧)
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**Huobao Drama**](https://github.com/chatfire-AI/huobao-drama) | ~9k+ | End-to-end AI short drama. Script → video. Go + Vue3. Role/scene/storyboard gen, video synthesis. Docker. |
+| [**LocalMiniDrama**](https://github.com/xuanyustudio/LocalMiniDrama) | - | Local offline short drama. Vue3 + Electron. No cloud, no subscription. DashScope, Volcano. |
+| [**waoowaoo**](https://github.com/saturndec/waoowaoo) | - | Industrial AI film platform. Short drama to full production. AI dubbing, multi-language. Next.js 15. |
+
+### Audiobooks & TTS (有声书 / 语音合成)
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**Coqui TTS**](https://github.com/coqui-ai/TTS) | ~45k+ | 1,100+ languages. XTTS voice cloning, Bark. MPL-2.0. |
+| [**ebook2audiobook**](https://github.com/DrewThomasson/ebook2audiobook) | ~18k+ | EPUB/PDF/TXT → multi-voice audiobook. 1,158+ languages, voice cloning. CPU/GPU, Colab, HF. |
+| [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice) | - | Alibaba. Multi-lingual TTS. 3–10s voice clone, emotion control, streaming. Chinese/English/Japanese/Cantonese/Korean. |
+| [**Fish Speech**](https://github.com/fishaudio/fish-speech) | ~29k+ | SOTA TTS. Dual-AR, 150ms latency. Voice clone, 720k hrs training. |
+| [**LiberSonora**](https://github.com/LiberSonora/LiberSonora) | ~460+ | AI-powered audiobook toolkit. Offline, Docker. FFmpeg, FunASR, Ollama. |
+| [**auto-audio-book**](https://github.com/zqq-nuli/auto-audio-book) | ~244+ | Chinese audiobook automation. Gemini + CosyVoice2. Novel crawl, multi-role, 1000+ chapters. |
+| [**Audiobook Creator**](https://github.com/prakharsr/audiobook-creator) | ~460+ | EPUB/PDF/TXT → multi-role audiobook. Kokoro/Orpheus TTS, LLM role detection. GPL-3.0. |
+
+### AI Video Generation
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**Open-Sora**](https://github.com/hpcaitech/Open-Sora) | ~29k+ | Open-source video generation. Open-Sora 2.0: 11B, $200K training. Comparable to HunyuanVideo. |
+| [**Open-Sora-Plan**](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | ~12k+ | Peking University. Community Sora reproduction. Huawei Ascend. |
+| [**HunyuanVideo**](https://github.com/Tencent-Hunyuan/HunyuanVideo) | ~12k+ | Tencent. 13B+ params. Text-to-video. Hugging Face Diffusers, ComfyUI. |
+| [**awesome-ai-video-generation**](https://github.com/ristponex/awesome-ai-video-generation) | - | 106 AI video models. Kling, Seedance, Wan, Veo, Hailuo, Vidu. Prompt guides, API comparison. |
+
+### Other Trending AI Applications
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**OpenAkita**](https://github.com/openakita/openakita) | ~1.4k+ | Multi-agent AI assistant. 30+ LLMs, 6 IM platforms, 89+ tools. Desktop/web/mobile. |
+| [**CountBot**](https://github.com/countbot-ai/CountBot) | ~220+ | Lightweight Chinese AI Agent. Feishu, DingTalk, QQ, Telegram, WeChat. 21k LOC. |
 
 ---
 

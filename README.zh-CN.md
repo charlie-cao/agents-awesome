@@ -16,6 +16,7 @@
 - [智能体框架合集](#智能体框架合集)
 - [技能库](#技能库)
 - [大模型与使用场景](#大模型与使用场景)
+- [AI 应用场景](#ai-应用场景)
 - [相关资源](#相关资源)
 
 ---
@@ -139,6 +140,58 @@ AI 智能体开发框架与工具的精选列表。
 | **Grok 3 / 4** | xAI | **均衡**、开放访问 | 实时数据 |
 | **Mistral Large** | Mistral | **欧洲语言**、备选 | 多语言能力强 |
 | **Gemma 3** | Google | **开源权重**、高效 | 适合微调 |
+
+---
+
+## AI 应用场景
+
+面向特定领域的开源项目：数字人、短剧、有声书、视频生成等。
+
+### 数字人
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [**SadTalker**](https://github.com/OpenTalker/SadTalker) | ~14k+ | CVPR 2023。单张肖像 + 音频 → 口播视频。唇形同步，Apache 2.0。Hugging Face、Colab。 |
+| [**Ultralight Digital Human**](https://github.com/anliyuan/Ultralight-Digital-Human) | ~2.4k+ | 超轻量数字人，移动端实时。自训练，WeNet/HuBERT 音频编码器。 |
+| [**腾讯混元数字人**](https://github.com/Tencent/digitalhuman) | ~300+ | Hunyuan AI 数字人。Python。 |
+| [**LAM (Large Avatar Model)**](https://github.com/aigc3d/LAM) | ~940+ | 阿里通义。单张图 → 3D 互动聊天头像，秒级生成。SIGGRAPH 2025。WebGL，音频驱动。 |
+| [**LHM++**](https://github.com/aigc3d/LHM-plusplus) | - | 大模型人体重建。图片 → 3D 头部，0.79 秒推理。Apache 2.0。 |
+
+### 短剧
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [**Huobao Drama 火宝短剧**](https://github.com/chatfire-AI/huobao-drama) | ~9k+ | 端到端 AI 短剧。剧本到成片。Go + Vue3。角色/场景/分镜生成、视频合成。Docker。 |
+| [**LocalMiniDrama**](https://github.com/xuanyustudio/LocalMiniDrama) | - | 本地离线短剧助手。Vue3 + Electron。数据不上云、无订阅费。DashScope、火山引擎。 |
+| [**waoowaoo**](https://github.com/saturndec/waoowaoo) | - | 工业级 AI 影视平台。短剧到实拍级电影。AI 配音、多语言。Next.js 15。 |
+
+### 有声书 / 语音合成
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [**Coqui TTS**](https://github.com/coqui-ai/TTS) | ~45k+ | 1,100+ 语言。XTTS 声音克隆、Bark。MPL-2.0。 |
+| [**ebook2audiobook**](https://github.com/DrewThomasson/ebook2audiobook) | ~18k+ | EPUB/PDF/TXT → 多角色有声书。1,158+ 语言，声音克隆。CPU/GPU、Colab、HF。 |
+| [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice) | - | 阿里通义。多语言 TTS。3–10 秒声音克隆，情感控制，流式。中英日粤韩。 |
+| [**Fish Speech**](https://github.com/fishaudio/fish-speech) | ~29k+ | SOTA TTS。双 AR 架构，150ms 首包延迟。声音克隆，72 万小时训练。 |
+| [**LiberSonora**](https://github.com/LiberSonora/LiberSonora) | ~460+ | AI 有声书工具集。离线运行，Docker。FFmpeg、FunASR、Ollama。 |
+| [**auto-audio-book**](https://github.com/zqq-nuli/auto-audio-book) | ~244+ | 中文有声书自动化。Gemini + CosyVoice2。小说爬取、多角色、1000+ 章。 |
+| [**Audiobook Creator**](https://github.com/prakharsr/audiobook-creator) | ~460+ | EPUB/PDF/TXT → 多角色有声书。Kokoro/Orpheus TTS，LLM 角色识别。GPL-3.0。 |
+
+### AI 视频生成
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [**Open-Sora**](https://github.com/hpcaitech/Open-Sora) | ~29k+ | 开源视频生成。Open-Sora 2.0：11B 参数，20 万美元训练。对标 HunyuanVideo。 |
+| [**Open-Sora-Plan**](https://github.com/PKU-YuanGroup/Open-Sora-Plan) | ~12k+ | 北大。社区 Sora 复现。华为昇腾。 |
+| [**HunyuanVideo**](https://github.com/Tencent-Hunyuan/HunyuanVideo) | ~12k+ | 腾讯。130 亿参数。文生视频。Hugging Face Diffusers、ComfyUI。 |
+| [**awesome-ai-video-generation**](https://github.com/ristponex/awesome-ai-video-generation) | - | 106 个 AI 视频模型。可灵、Seedance、万、Veo、海螺、Vidu。提示词指南、API 对比。 |
+
+### 其他热门 AI 应用
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [**OpenAkita**](https://github.com/openakita/openakita) | ~1.4k+ | 多智能体 AI 助手。30+ LLM，6 个 IM 平台，89+ 工具。桌面/网页/移动端。 |
+| [**CountBot**](https://github.com/countbot-ai/CountBot) | ~220+ | 轻量中文 AI Agent。飞书、钉钉、QQ、Telegram、微信。2.1 万行 Python。 |
 
 ---
 
