@@ -1,10 +1,17 @@
+<p align="center">
+  <a href="README.zh-CN.md">中文版</a> ·
+  <a href="README.md">English</a>
+</p>
+
 # Awesome AI Agents
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 A curated list of awesome AI agent collections, skills frameworks, LLMs, and related resources for coding agents (Claude Code, Cursor, Codex, OpenCode, Gemini CLI, OpenClaw, etc.).
 
-> Last updated: March 2026
-> 
-> **Note:** All listed projects have GitHub repository links. Stars are approximate and may vary.
+> **Last updated:** March 2026 · All entries link to GitHub · Stars are approximate
 
 ---
 
@@ -40,6 +47,7 @@ Top repositories by stars across all categories:
 
 ## Table of Contents
 
+- [Heat Ranking](#github-heat-ranking-热度排行)
 - [Agent Personas & Role Collections](#agent-personas--role-collections)
 - [Skills & Workflow Frameworks](#skills--workflow-frameworks)
 - [Agent Development Frameworks](#agent-development-frameworks)
@@ -50,6 +58,7 @@ Top repositories by stars across all categories:
 - [LLM Models & Use Cases](#llm-models--use-cases)
 - [AI Application Scenarios](#ai-application-scenarios)
 - [Related Resources](#related-resources)
+- [Links](#links)
 
 ---
 
@@ -246,12 +255,24 @@ All resources below have GitHub links.
 
 ---
 
+## Links
+
+| | |
+|---|---|
+| [Contributing](CONTRIBUTING.md) | How to add or update resources |
+| [Code of Conduct](CODE_OF_CONDUCT.md) | Community guidelines |
+| [Security](SECURITY.md) | How to report vulnerabilities |
+| [Changelog](CHANGELOG.md) | Version history |
+| [License](LICENSE) | MIT |
+
+---
+
 ## Contributing
 
-Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) — use freely, attribution appreciated.

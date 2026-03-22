@@ -2,6 +2,8 @@
 
 Thank you for considering contributing! This project aims to curate the best AI agent collections, skills frameworks, and related resources.
 
+**Quick links:** [Code of Conduct](CODE_OF_CONDUCT.md) · [Security](SECURITY.md) · [Changelog](CHANGELOG.md)
+
 ## How to Contribute
 
 ### Adding a New Resource

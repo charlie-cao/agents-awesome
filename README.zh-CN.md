@@ -1,10 +1,17 @@
+<p align="center">
+  <a href="README.md">English</a> ·
+  <a href="README.zh-CN.md">中文版</a>
+</p>
+
 # Awesome AI Agents / AI 智能体资源精选
+
+[![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![欢迎 PR](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 精选的 AI 智能体合集、技能框架、大模型及相关资源，适用于编码智能体（Claude Code、Cursor、Codex、OpenCode、Gemini CLI、OpenClaw 等）。
 
-> 最后更新：2026 年 3 月
-> 
-> **说明：** 所有项目均提供 GitHub 仓库链接。Stars 为约数，实时数据请以 GitHub 为准。
+> **最后更新：** 2026 年 3 月 · 所有条目均有 GitHub 链接 · Stars 为约数
 
 ---
 
@@ -40,6 +47,7 @@
 
 ## 目录
 
+- [热度排行](#github-热度排行)
 - [智能体人设与角色合集](#智能体人设与角色合集)
 - [技能与工作流框架](#技能与工作流框架)
 - [智能体开发框架](#智能体开发框架)
@@ -50,6 +58,7 @@
 - [大模型与使用场景](#大模型与使用场景)
 - [AI 应用场景](#ai-应用场景)
 - [相关资源](#相关资源)
+- [链接](#链接)
 
 ---
 
@@ -246,6 +255,18 @@ AI 智能体开发框架与工具的精选列表。
 
 ---
 
+## 链接
+
+| | |
+|---|---|
+| [贡献指南](CONTRIBUTING.md) | 如何添加或更新资源 |
+| [行为准则](CODE_OF_CONDUCT.md) | 社区规范 |
+| [安全政策](SECURITY.md) | 如何报告漏洞 |
+| [更新日志](CHANGELOG.md) | 版本历史 |
+| [许可证](LICENSE) | MIT |
+
+---
+
 ## 贡献
 
 欢迎贡献！请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解指南。
@@ -254,4 +275,4 @@ AI 智能体开发框架与工具的精选列表。
 
 ## 许可证
 
-[MIT](LICENSE)
+[MIT](LICENSE) — 自由使用，建议署名。
