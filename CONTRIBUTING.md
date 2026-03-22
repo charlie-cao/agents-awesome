@@ -16,6 +16,7 @@ Thank you for considering contributing! This project aims to curate the best AI 
 
 ### Resource Criteria
 
+- **Must have GitHub link**: All entries must link to a GitHub repository (no external-only URLs)
 - **Agent Personas**: Specialized agent personalities with defined roles, workflows, or deliverables
 - **Skills Frameworks**: Composable skill systems that teach agents methodologies (TDD, planning, etc.)
 - **Framework Collections**: Curated lists of LLM/agent development frameworks

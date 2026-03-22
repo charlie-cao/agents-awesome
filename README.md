@@ -3,6 +3,38 @@
 A curated list of awesome AI agent collections, skills frameworks, LLMs, and related resources for coding agents (Claude Code, Cursor, Codex, OpenCode, Gemini CLI, OpenClaw, etc.).
 
 > Last updated: March 2026
+> 
+> **Note:** All listed projects have GitHub repository links. Stars are approximate and may vary.
+
+---
+
+## GitHub Heat Ranking (热度排行)
+
+Top repositories by stars across all categories:
+
+| Rank | Project | Stars | Category |
+|------|---------|-------|----------|
+| 1 | [OpenClaw](https://github.com/openclaw/openclaw) | 330k+ | Agent Framework |
+| 2 | [LangChain](https://github.com/langchain-ai/langchain) | 130k+ | Agent Framework |
+| 3 | [n8n](https://github.com/n8n-io/n8n) | 160k+ | Agent Framework |
+| 4 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 160k | Agent Framework |
+| 5 | [Dify](https://github.com/langgenius/dify) | 110k–130k+ | Agent Framework |
+| 6 | [Langflow](https://github.com/langflow-ai/langflow) | 140k+ | Agent Framework |
+| 7 | [Superpowers](https://github.com/obra/superpowers) | 105k+ | Skills |
+| 8 | [The Agency](https://github.com/msitarzewski/agency-agents) | 59k+ | Personas |
+| 9 | [Coqui TTS](https://github.com/coqui-ai/TTS) | 45k+ | Audiobooks/TTS |
+| 10 | [Llama Index](https://github.com/run-llama/llama_index) | 48k+ | Agent Framework |
+| 11 | [Embedchain](https://github.com/embedchain/embedchain) | 50k+ | Agent Framework |
+| 12 | [AutoGen](https://github.com/microsoft/autogen) | 50k–60k+ | Agent Framework |
+| 13 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 60k+ | Agent Framework |
+| 14 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 60k+ | Agent Framework |
+| 15 | [Fish Speech](https://github.com/fishaudio/fish-speech) | 29k+ | Audiobooks/TTS |
+| 16 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | 29k+ | AI Video |
+| 17 | [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 18k+ | Audiobooks/TTS |
+| 18 | [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) | 20k+ | Audiobooks/TTS |
+| 19 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 20k+ | Agent Framework |
+| 20 | [waoowaoo](https://github.com/waoowaooAI/waoowaoo) | 10k+ | Short Drama |
+| 21 | [Huobao Drama](https://github.com/chatfire-AI/huobao-drama) | 9k+ | Short Drama |
 
 ---
 
@@ -77,13 +109,12 @@ SDKs, platforms, and tools for building AI agents. Essential references for anyo
 
 [OpenClaw](https://github.com/openclaw/openclaw) (330k+ stars) is the fastest-growing AI agent project. Key ecosystem resources:
 
-| Resource | Description |
-|----------|-------------|
-| [**OpenClaw**](https://github.com/openclaw/openclaw) | Core: personal AI assistant, any OS, 25+ channels (WhatsApp, Telegram, Slack, etc.), SOUL.md, voice/audio. |
-| [**ClawHub**](https://claw-hub.net/) | Official skill marketplace. 3,200+ skills, vector search, CLI install. "npm for AI agents." |
-| [**CrewClaw**](https://crewclaw.com/) | Visual agent configurator. 100+ role templates, generates SOUL.md. Deploy in 60 seconds. |
-| [**awesome-openclaw-agents**](https://github.com/mergisi/awesome-openclaw-agents) | 160+ SOUL.md templates, 24 categories. |
-| [**awesome-openclaw-skills**](https://github.com/sundial-org/awesome-openclaw-skills) | 913 curated skills. |
+| Resource | Stars | Description |
+|----------|-------|-------------|
+| [**OpenClaw**](https://github.com/openclaw/openclaw) | 330k+ | Core: personal AI assistant, any OS, 25+ channels (WhatsApp, Telegram, Slack, etc.), SOUL.md, voice/audio. |
+| [**ClawHub**](https://github.com/openclaw/clawhub) | 6.6k+ | Official skill registry. 3,200+ skills, vector search, CLI install. "npm for AI agents." |
+| [**awesome-openclaw-agents**](https://github.com/mergisi/awesome-openclaw-agents) | 160+ | 160+ SOUL.md templates, 24 categories. |
+| [**awesome-openclaw-skills**](https://github.com/sundial-org/awesome-openclaw-skills) | 900+ | 913 curated skills across 20 categories. |
 
 ---
 
@@ -94,7 +125,6 @@ Model Context Protocol (MCP) extends agents with external tools and data.
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [**awesome-mcp-servers**](https://github.com/wong2/awesome-mcp-servers) | ~3.7k+ | Curated MCP server list. 380+ contributors. |
-| [**mcp-awesome.com**](https://mcp-awesome.com/) | - | 1,200+ quality-verified MCP servers. |
 | [**awesome-remote-mcp-servers**](https://github.com/jaw9c/awesome-remote-mcp-servers) | - | Remote MCP servers with OAuth/API key auth. |
 
 ---
@@ -117,10 +147,10 @@ Curated lists of AI agent development frameworks and tools.
 
 Domain-specific skill packages for extending agent capabilities.
 
-| Project | Description |
-|---------|-------------|
-| [**agents-skills**](https://github.com/BrunoAlan/agents-skills) | TypeScript, React, Next.js, Tailwind, testing. Open agent skills standard. |
-| [**agent-skills**](https://github.com/chriscox/agent-skills) | project-planner, docs-sync for GitHub issues and docs. |
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [**agents-skills**](https://github.com/BrunoAlan/agents-skills) | - | TypeScript, React, Next.js, Tailwind, testing. Open agent skills standard. |
+| [**agent-skills**](https://github.com/chriscox/agent-skills) | - | project-planner, docs-sync for GitHub issues and docs. |
 
 ---
 
@@ -155,15 +185,15 @@ Open-source projects for specific AI application domains: digital humans, short 
 | [**Ultralight Digital Human**](https://github.com/anliyuan/Ultralight-Digital-Human) | ~2.4k+ | Lightweight digital human, real-time on mobile. Self-training, WeNet/HuBERT audio encoders. |
 | [**Tencent Hunyuan Digital Human**](https://github.com/Tencent/digitalhuman) | ~300+ | Hunyuan AI digital human. Python-based. |
 | [**LAM (Large Avatar Model)**](https://github.com/aigc3d/LAM) | ~940+ | Alibaba Tongyi. Single image → 3D interactive chat avatar in seconds. SIGGRAPH 2025. WebGL, audio-driven. |
-| [**LHM++**](https://github.com/aigc3d/LHM-plusplus) | - | Large Human Reconstruction. Image → 3D head, 0.79s inference. Apache 2.0. |
+| [**LHM++**](https://github.com/aigc3d/LHM-plusplus) | ~130+ | Large Human Reconstruction. Image → 3D head, 0.79s inference. Apache 2.0. |
 
 ### Short Drama (短剧)
 
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [**Huobao Drama**](https://github.com/chatfire-AI/huobao-drama) | ~9k+ | End-to-end AI short drama. Script → video. Go + Vue3. Role/scene/storyboard gen, video synthesis. Docker. |
-| [**LocalMiniDrama**](https://github.com/xuanyustudio/LocalMiniDrama) | - | Local offline short drama. Vue3 + Electron. No cloud, no subscription. DashScope, Volcano. |
-| [**waoowaoo**](https://github.com/saturndec/waoowaoo) | - | Industrial AI film platform. Short drama to full production. AI dubbing, multi-language. Next.js 15. |
+| [**LocalMiniDrama**](https://github.com/xuanyustudio/LocalMiniDrama) | ~60+ | Local offline short drama. Vue3 + Electron. No cloud, no subscription. DashScope, Volcano. |
+| [**waoowaoo**](https://github.com/waoowaooAI/waoowaoo) | ~10k+ | Industrial AI film platform. Short drama to full production. AI dubbing, multi-language. Next.js 15. |
 
 ### Audiobooks & TTS (有声书 / 语音合成)
 
@@ -171,7 +201,7 @@ Open-source projects for specific AI application domains: digital humans, short 
 |---------|-------|-------------|
 | [**Coqui TTS**](https://github.com/coqui-ai/TTS) | ~45k+ | 1,100+ languages. XTTS voice cloning, Bark. MPL-2.0. |
 | [**ebook2audiobook**](https://github.com/DrewThomasson/ebook2audiobook) | ~18k+ | EPUB/PDF/TXT → multi-voice audiobook. 1,158+ languages, voice cloning. CPU/GPU, Colab, HF. |
-| [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice) | - | Alibaba. Multi-lingual TTS. 3–10s voice clone, emotion control, streaming. Chinese/English/Japanese/Cantonese/Korean. |
+| [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice) | ~20k+ | Alibaba. Multi-lingual TTS. 3–10s voice clone, emotion control, streaming. Chinese/English/Japanese/Cantonese/Korean. |
 | [**Fish Speech**](https://github.com/fishaudio/fish-speech) | ~29k+ | SOTA TTS. Dual-AR, 150ms latency. Voice clone, 720k hrs training. |
 | [**LiberSonora**](https://github.com/LiberSonora/LiberSonora) | ~460+ | AI-powered audiobook toolkit. Offline, Docker. FFmpeg, FunASR, Ollama. |
 | [**auto-audio-book**](https://github.com/zqq-nuli/auto-audio-book) | ~244+ | Chinese audiobook automation. Gemini + CosyVoice2. Novel crawl, multi-role, 1000+ chapters. |
@@ -197,11 +227,12 @@ Open-source projects for specific AI application domains: digital humans, short 
 
 ## Related Resources
 
-| Resource | Description |
-|----------|-------------|
-| [**Agent Skills Standard**](https://cursor.com/docs/skills) | Cursor SKILL.md format — compatible across Claude, Codex, Cursor. |
-| [**agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) | Chinese translation of The Agency (100 agents + 9 China-market originals). |
-| [**agent-teams**](https://github.com/dsclca12/agent-teams) | Independent Agency translation with Bilibili, WeChat, Xiaohongshu localization. |
+All resources below have GitHub links.
+
+| Resource | Stars | Description |
+|----------|-------|-------------|
+| [**agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) | - | Chinese translation of The Agency (100 agents + 9 China-market originals). |
+| [**agent-teams**](https://github.com/dsclca12/agent-teams) | - | Independent Agency translation with Bilibili, WeChat, Xiaohongshu localization. |
 
 ---
 

@@ -3,6 +3,38 @@
 精选的 AI 智能体合集、技能框架、大模型及相关资源，适用于编码智能体（Claude Code、Cursor、Codex、OpenCode、Gemini CLI、OpenClaw 等）。
 
 > 最后更新：2026 年 3 月
+> 
+> **说明：** 所有项目均提供 GitHub 仓库链接。Stars 为约数，实时数据请以 GitHub 为准。
+
+---
+
+## GitHub 热度排行
+
+全类别按 Stars 排序的 TOP 项目：
+
+| 排名 | 项目 | Stars | 分类 |
+|------|------|-------|------|
+| 1 | [OpenClaw](https://github.com/openclaw/openclaw) | 330k+ | 智能体框架 |
+| 2 | [LangChain](https://github.com/langchain-ai/langchain) | 130k+ | 智能体框架 |
+| 3 | [n8n](https://github.com/n8n-io/n8n) | 160k+ | 智能体框架 |
+| 4 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 160k | 智能体框架 |
+| 5 | [Dify](https://github.com/langgenius/dify) | 110k–130k+ | 智能体框架 |
+| 6 | [Langflow](https://github.com/langflow-ai/langflow) | 140k+ | 智能体框架 |
+| 7 | [Superpowers](https://github.com/obra/superpowers) | 105k+ | 技能框架 |
+| 8 | [The Agency](https://github.com/msitarzewski/agency-agents) | 59k+ | 人设合集 |
+| 9 | [Coqui TTS](https://github.com/coqui-ai/TTS) | 45k+ | 有声书/TTS |
+| 10 | [Llama Index](https://github.com/run-llama/llama_index) | 48k+ | 智能体框架 |
+| 11 | [Embedchain](https://github.com/embedchain/embedchain) | 50k+ | 智能体框架 |
+| 12 | [AutoGen](https://github.com/microsoft/autogen) | 50k–60k+ | 智能体框架 |
+| 13 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | 60k+ | 智能体框架 |
+| 14 | [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 60k+ | 智能体框架 |
+| 15 | [Fish Speech](https://github.com/fishaudio/fish-speech) | 29k+ | 有声书/TTS |
+| 16 | [Open-Sora](https://github.com/hpcaitech/Open-Sora) | 29k+ | AI 视频 |
+| 17 | [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | 18k+ | 有声书/TTS |
+| 18 | [CosyVoice](https://github.com/FunAudioLLM/CosyVoice) | 20k+ | 有声书/TTS |
+| 19 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | 20k+ | 智能体框架 |
+| 20 | [waoowaoo](https://github.com/waoowaooAI/waoowaoo) | 10k+ | 短剧 |
+| 21 | [Huobao Drama](https://github.com/chatfire-AI/huobao-drama) | 9k+ | 短剧 |
 
 ---
 
@@ -77,13 +109,12 @@
 
 [OpenClaw](https://github.com/openclaw/openclaw)（330k+ stars）是 2025–2026 增速最快的 AI 智能体项目。核心生态资源：
 
-| 资源 | 说明 |
-|------|------|
-| [**OpenClaw**](https://github.com/openclaw/openclaw) | 核心：个人 AI 助手，任意 OS，25+ 渠道（WhatsApp、Telegram、Slack 等），SOUL.md，语音/音频。 |
-| [**ClawHub**](https://claw-hub.net/) | 官方技能市场。3,200+ 技能，向量搜索，CLI 安装。「AI 智能体的 npm」。 |
-| [**CrewClaw**](https://crewclaw.com/) | 可视化智能体配置器。100+ 角色模板，自动生成 SOUL.md。60 秒部署。 |
-| [**awesome-openclaw-agents**](https://github.com/mergisi/awesome-openclaw-agents) | 160+ SOUL.md 模板，24 类。 |
-| [**awesome-openclaw-skills**](https://github.com/sundial-org/awesome-openclaw-skills) | 913 项精选技能。 |
+| 资源 | Stars | 说明 |
+|------|-------|------|
+| [**OpenClaw**](https://github.com/openclaw/openclaw) | 330k+ | 核心：个人 AI 助手，任意 OS，25+ 渠道（WhatsApp、Telegram、Slack 等），SOUL.md，语音/音频。 |
+| [**ClawHub**](https://github.com/openclaw/clawhub) | 6.6k+ | 官方技能注册表。3,200+ 技能，向量搜索，CLI 安装。「AI 智能体的 npm」。 |
+| [**awesome-openclaw-agents**](https://github.com/mergisi/awesome-openclaw-agents) | 160+ | 160+ SOUL.md 模板，24 类。 |
+| [**awesome-openclaw-skills**](https://github.com/sundial-org/awesome-openclaw-skills) | 900+ | 20 类 913 项精选技能。 |
 
 ---
 
@@ -94,7 +125,6 @@ Model Context Protocol (MCP) 让智能体连接外部工具与数据。
 | 项目 | Stars | 说明 |
 |------|-------|------|
 | [**awesome-mcp-servers**](https://github.com/wong2/awesome-mcp-servers) | ~3.7k+ | 精选 MCP 服务器列表。380+ 贡献者。 |
-| [**mcp-awesome.com**](https://mcp-awesome.com/) | - | 1,200+ 质量验证的 MCP 服务器。 |
 | [**awesome-remote-mcp-servers**](https://github.com/jaw9c/awesome-remote-mcp-servers) | - | 支持 OAuth/API Key 的远程 MCP 服务器。 |
 
 ---
@@ -117,10 +147,10 @@ AI 智能体开发框架与工具的精选列表。
 
 面向特定领域的技能包，用于扩展智能体能力。
 
-| 项目 | 说明 |
-|------|------|
-| [**agents-skills**](https://github.com/BrunoAlan/agents-skills) | TypeScript、React、Next.js、Tailwind、测试框架相关技能。遵循开放智能体技能标准。 |
-| [**agent-skills**](https://github.com/chriscox/agent-skills) | 可复用技能：project-planner、docs-sync，用于 GitHub Issues 与文档同步。 |
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [**agents-skills**](https://github.com/BrunoAlan/agents-skills) | - | TypeScript、React、Next.js、Tailwind、测试框架相关技能。遵循开放智能体技能标准。 |
+| [**agent-skills**](https://github.com/chriscox/agent-skills) | - | 可复用技能：project-planner、docs-sync，用于 GitHub Issues 与文档同步。 |
 
 ---
 
@@ -155,15 +185,15 @@ AI 智能体开发框架与工具的精选列表。
 | [**Ultralight Digital Human**](https://github.com/anliyuan/Ultralight-Digital-Human) | ~2.4k+ | 超轻量数字人，移动端实时。自训练，WeNet/HuBERT 音频编码器。 |
 | [**腾讯混元数字人**](https://github.com/Tencent/digitalhuman) | ~300+ | Hunyuan AI 数字人。Python。 |
 | [**LAM (Large Avatar Model)**](https://github.com/aigc3d/LAM) | ~940+ | 阿里通义。单张图 → 3D 互动聊天头像，秒级生成。SIGGRAPH 2025。WebGL，音频驱动。 |
-| [**LHM++**](https://github.com/aigc3d/LHM-plusplus) | - | 大模型人体重建。图片 → 3D 头部，0.79 秒推理。Apache 2.0。 |
+| [**LHM++**](https://github.com/aigc3d/LHM-plusplus) | ~130+ | 大模型人体重建。图片 → 3D 头部，0.79 秒推理。Apache 2.0。 |
 
 ### 短剧
 
 | 项目 | Stars | 说明 |
 |------|-------|------|
 | [**Huobao Drama 火宝短剧**](https://github.com/chatfire-AI/huobao-drama) | ~9k+ | 端到端 AI 短剧。剧本到成片。Go + Vue3。角色/场景/分镜生成、视频合成。Docker。 |
-| [**LocalMiniDrama**](https://github.com/xuanyustudio/LocalMiniDrama) | - | 本地离线短剧助手。Vue3 + Electron。数据不上云、无订阅费。DashScope、火山引擎。 |
-| [**waoowaoo**](https://github.com/saturndec/waoowaoo) | - | 工业级 AI 影视平台。短剧到实拍级电影。AI 配音、多语言。Next.js 15。 |
+| [**LocalMiniDrama**](https://github.com/xuanyustudio/LocalMiniDrama) | ~60+ | 本地离线短剧助手。Vue3 + Electron。数据不上云、无订阅费。DashScope、火山引擎。 |
+| [**waoowaoo**](https://github.com/waoowaooAI/waoowaoo) | ~10k+ | 工业级 AI 影视平台。短剧到实拍级电影。AI 配音、多语言。Next.js 15。 |
 
 ### 有声书 / 语音合成
 
@@ -171,7 +201,7 @@ AI 智能体开发框架与工具的精选列表。
 |------|-------|------|
 | [**Coqui TTS**](https://github.com/coqui-ai/TTS) | ~45k+ | 1,100+ 语言。XTTS 声音克隆、Bark。MPL-2.0。 |
 | [**ebook2audiobook**](https://github.com/DrewThomasson/ebook2audiobook) | ~18k+ | EPUB/PDF/TXT → 多角色有声书。1,158+ 语言，声音克隆。CPU/GPU、Colab、HF。 |
-| [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice) | - | 阿里通义。多语言 TTS。3–10 秒声音克隆，情感控制，流式。中英日粤韩。 |
+| [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice) | ~20k+ | 阿里通义。多语言 TTS。3–10 秒声音克隆，情感控制，流式。中英日粤韩。 |
 | [**Fish Speech**](https://github.com/fishaudio/fish-speech) | ~29k+ | SOTA TTS。双 AR 架构，150ms 首包延迟。声音克隆，72 万小时训练。 |
 | [**LiberSonora**](https://github.com/LiberSonora/LiberSonora) | ~460+ | AI 有声书工具集。离线运行，Docker。FFmpeg、FunASR、Ollama。 |
 | [**auto-audio-book**](https://github.com/zqq-nuli/auto-audio-book) | ~244+ | 中文有声书自动化。Gemini + CosyVoice2。小说爬取、多角色、1000+ 章。 |
@@ -197,11 +227,12 @@ AI 智能体开发框架与工具的精选列表。
 
 ## 相关资源
 
-| 资源 | 说明 |
-|------|------|
-| [**Agent Skills Standard**](https://cursor.com/docs/skills) | Cursor SKILL.md 格式 —— 兼容 Claude、Codex、Cursor。 |
-| [**agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) | The Agency 中文版（100 个翻译智能体 + 9 个中国市场原创）。 |
-| [**agent-teams**](https://github.com/dsclca12/agent-teams) | 独立 Agency 翻译，含 Bilibili、微信、小红书等本地化。 |
+以下资源均提供 GitHub 链接。
+
+| 资源 | Stars | 说明 |
+|------|-------|------|
+| [**agency-agents-zh**](https://github.com/jnMetaCode/agency-agents-zh) | - | The Agency 中文版（100 个翻译智能体 + 9 个中国市场原创）。 |
+| [**agent-teams**](https://github.com/dsclca12/agent-teams) | - | 独立 Agency 翻译，含 Bilibili、微信、小红书等本地化。 |
 
 ---
 
