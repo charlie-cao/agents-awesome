@@ -8,8 +8,10 @@
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub Stars](https://img.shields.io/github/stars/charlie-cao/agents-awesome?style=social)](https://github.com/charlie-cao/agents-awesome)
+[![Follow @charlie-cao](https://img.shields.io/twitter/follow/charlie-cao?style=social)](https://twitter.com/charlie-cao)
 
-A curated list of awesome AI agent collections, skills frameworks, LLMs, and related resources for coding agents (Claude Code, Cursor, Codex, OpenCode, Gemini CLI, OpenClaw, etc.).
+A curated list of awesome AI agent collections, skills frameworks, LLMs, and related resources for coding agents (Claude Code, Cursor, Codex, OpenCode, Gemini CLI, OpenClaw, etc.). Covers autonomous agents, multi-agent systems, agent orchestration, coding agents, RAG, memory, productivity automation, and AI workflow tools.
 
 > **Last updated:** March 2026 · All entries link to GitHub · Stars are approximate
 
@@ -264,6 +266,17 @@ All resources below have GitHub links.
 | [Security](SECURITY.md) | How to report vulnerabilities |
 | [Changelog](CHANGELOG.md) | Version history |
 | [License](LICENSE) | MIT |
+
+---
+
+## ❤️ Sponsor This Project
+
+If this list saves you time, consider [sponsoring its development](https://github.com/sponsors/charlie-cao):
+
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/charlie-cao?style=for-the-badge)](https://github.com/sponsors/charlie-cao)
+[![Open Collective](https://img.shields.io/badge/Open_Collective-Support-orange?style=for-the-badge)](https://opencollective.com/agents-awesome)
+
+Your sponsorship helps us keep the list up-to-date with daily automated trending updates and quality curation.
 
 ---
 

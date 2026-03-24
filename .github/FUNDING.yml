@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+
+github: [charlie-cao]
+patreon: agents-awesome
+open_collective: agents-awesome
+ko_fi: # 译者: 如果你有 Ko-fi 账号，可以在这里填入用户名
+tidelift: # npm / PyPI 等包管理器的订阅服务
+community_bridge: # Linux Foundation 的社区桥梁
+liberapay: # Liberapay 用户名
+issuehunt: # IssueHunt 题目的资助徽章
+otechie: # Otechie 开发者平台
+lfx_crowdfunding: # Linux Foundation Crowdfunding
+custom: ['https://opencollective.com/agents-awesome']

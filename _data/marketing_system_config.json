@@ -1,0 +1,84 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-03-23T00:38:26.166Z",
+  "integratedTactics": [
+    {
+      "slug": "marketing-skills",
+      "displayName": "Marketing Skills",
+      "addedAt": "20260323",
+      "score": 63,
+      "reason": "在 README 中增加关键词密度，优化搜索引擎排名",
+      "status": "passive"
+    },
+    {
+      "slug": "brave-search",
+      "displayName": "Brave Search",
+      "addedAt": "20260323",
+      "score": 62,
+      "reason": "将博客/文章内容纳入分发矩阵",
+      "status": "passive"
+    },
+    {
+      "slug": "youtube-watcher",
+      "displayName": "YouTube Watcher",
+      "addedAt": "20260323",
+      "score": 62,
+      "reason": "将博客/文章内容纳入分发矩阵",
+      "status": "passive"
+    },
+    {
+      "slug": "mailchimp",
+      "displayName": "Mailchimp",
+      "addedAt": "20260323",
+      "score": 58,
+      "reason": "建立邮件订阅流水线",
+      "status": "passive"
+    },
+    {
+      "slug": "google-slides",
+      "displayName": "Google Slides",
+      "addedAt": "20260323",
+      "score": 56,
+      "reason": "将博客/文章内容纳入分发矩阵",
+      "status": "passive"
+    },
+    {
+      "slug": "frontend-design-ultimate",
+      "displayName": "Frontend Design Ultimate",
+      "addedAt": "20260323",
+      "score": 51,
+      "reason": "记录该技能，持续关注其发展",
+      "status": "passive"
+    },
+    {
+      "slug": "google-analytics",
+      "displayName": "Google Analytics",
+      "addedAt": "20260323",
+      "score": 50,
+      "reason": "扩展 analytics_tracker.mjs，接入更多追踪指标",
+      "status": "passive"
+    }
+  ],
+  "activeChannels": [
+    "github",
+    "content"
+  ],
+  "contentStrategy": {
+    "primaryFormat": "thread",
+    "postingFrequency": "daily",
+    "focusAreas": [
+      "ai-agents",
+      "github-trending",
+      "tool-releases"
+    ]
+  },
+  "evolutionHistory": [],
+  "monetization": {
+    "currentStage": "seeds",
+    "nextMilestone": {
+      "target": 100,
+      "milestone": "tool-sponsorships"
+    },
+    "actionsTaken": []
+  }
+}
