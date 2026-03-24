@@ -1,0 +1,306 @@
+{
+  "plan": {
+    "date": "20260324",
+    "recommendations": [
+      {
+        "slug": "marketing-skills",
+        "displayName": "Marketing Skills",
+        "summary": "Access 23 marketing modules offering checklists, frameworks, and ready-to-use deliverables for CRO, SEO, copywriting, analytics, launches, ads, and social me...",
+        "score": 63,
+        "alreadyIntegrated": true,
+        "clawhubUrl": "https://clawhub.ai/skills/marketing-skills",
+        "category": "marketing",
+        "recommendedActions": [
+          {
+            "type": "seo_optimization",
+            "action": "在 README 中增加关键词密度，优化搜索引擎排名",
+            "impact": "high",
+            "effort": "low"
+          },
+          {
+            "type": "measurement",
+            "action": "扩展 analytics_tracker.mjs，接入更多追踪指标",
+            "impact": "high",
+            "effort": "medium"
+          },
+          {
+            "type": "content_diversification",
+            "action": "将博客/文章内容纳入分发矩阵",
+            "impact": "medium",
+            "effort": "medium"
+          },
+          {
+            "type": "growth_experiment",
+            "action": "实施 1-2 个增长实验（如 Product Hunt 发布、Reddit 推广）",
+            "impact": "high",
+            "effort": "high"
+          },
+          {
+            "type": "monetization",
+            "action": "评估该技能的变现场景，更新 MONETIZATION.md",
+            "impact": "high",
+            "effort": "low"
+          }
+        ]
+      },
+      {
+        "slug": "brave-search",
+        "displayName": "Brave Search",
+        "summary": "Web search and content extraction via Brave Search API. Use for searching documentation, facts, or any web content. Lightweight, no browser required.",
+        "score": 62,
+        "alreadyIntegrated": true,
+        "clawhubUrl": "https://clawhub.ai/skills/brave-search",
+        "category": "content",
+        "recommendedActions": [
+          {
+            "type": "content_diversification",
+            "action": "将博客/文章内容纳入分发矩阵",
+            "impact": "medium",
+            "effort": "medium"
+          }
+        ]
+      },
+      {
+        "slug": "youtube-watcher",
+        "displayName": "YouTube Watcher",
+        "summary": "Fetch and read transcripts from YouTube videos. Use when you need to summarize a video, answer questions about its content, or extract information from it.",
+        "score": 62,
+        "alreadyIntegrated": true,
+        "clawhubUrl": "https://clawhub.ai/skills/youtube-watcher",
+        "category": "content",
+        "recommendedActions": [
+          {
+            "type": "content_diversification",
+            "action": "将博客/文章内容纳入分发矩阵",
+            "impact": "medium",
+            "effort": "medium"
+          }
+        ]
+      },
+      {
+        "slug": "mailchimp",
+        "displayName": "Mailchimp",
+        "summary": "Mailchimp Marketing API integration with managed OAuth. Access audiences, campaigns, templates, automations, reports, and manage subscribers. Use this skill when users want to manage email marketing, subscriber lists, or automate email campaigns. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+        "score": 58,
+        "alreadyIntegrated": true,
+        "clawhubUrl": "https://clawhub.ai/skills/mailchimp",
+        "category": "marketing",
+        "recommendedActions": [
+          {
+            "type": "email_pipeline",
+            "action": "建立邮件订阅流水线",
+            "impact": "medium",
+            "effort": "medium"
+          }
+        ]
+      },
+      {
+        "slug": "google-slides",
+        "displayName": "Google Slides",
+        "summary": "Google Slides API integration with managed OAuth. Create presentations, add slides, insert content, and manage slide formatting. Use this skill when users want to interact with Google Slides. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+        "score": 56,
+        "alreadyIntegrated": true,
+        "clawhubUrl": "https://clawhub.ai/skills/google-slides",
+        "category": "content",
+        "recommendedActions": [
+          {
+            "type": "content_diversification",
+            "action": "将博客/文章内容纳入分发矩阵",
+            "impact": "medium",
+            "effort": "medium"
+          }
+        ]
+      },
+      {
+        "slug": "frontend-design-ultimate",
+        "displayName": "Frontend Design Ultimate",
+        "summary": "Create distinctive, production-grade static sites with React, Tailwind CSS, and shadcn/ui — no mockups needed. Generates bold, memorable designs from plain text requirements with anti-AI-slop aesthetics, mobile-first responsive patterns, and single-file bundling. Use when building landing pages, marketing sites, portfolios, dashboards, or any static web UI. Supports both Vite (pure static) and Next.js (Vercel deploy) workflows.",
+        "score": 51,
+        "alreadyIntegrated": true,
+        "clawhubUrl": "https://clawhub.ai/skills/frontend-design-ultimate",
+        "category": "marketing",
+        "recommendedActions": [
+          {
+            "type": "awareness",
+            "action": "记录该技能，持续关注其发展",
+            "impact": "low",
+            "effort": "low"
+          }
+        ]
+      },
+      {
+        "slug": "google-analytics",
+        "displayName": "Google Analytics",
+        "summary": "Google Analytics API integration with managed OAuth. Manage accounts, properties, and data streams (Admin API). Run reports on sessions, users, page views, and conversions (Data API). Use this skill when users want to configure or query Google Analytics. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).",
+        "score": 50,
+        "alreadyIntegrated": true,
+        "clawhubUrl": "https://clawhub.ai/skills/google-analytics",
+        "category": "analytics",
+        "recommendedActions": [
+          {
+            "type": "measurement",
+            "action": "扩展 analytics_tracker.mjs，接入更多追踪指标",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ]
+      },
+      {
+        "slug": "marketing-mode",
+        "displayName": "Marketing Mode",
+        "summary": "Marketing Mode combines 23 comprehensive marketing skills covering strategy, psychology, content, SEO, conversion optimization, and paid growth. Use when users need marketing strategy, copywriting, SEO help, conversion optimization, paid advertising, or any marketing tactic.",
+        "score": 47,
+        "alreadyIntegrated": false,
+        "clawhubUrl": "https://clawhub.ai/skills/marketing-mode",
+        "category": "marketing",
+        "recommendedActions": [
+          {
+            "type": "seo_optimization",
+            "action": "在 README 中增加关键词密度，优化搜索引擎排名",
+            "impact": "high",
+            "effort": "low"
+          },
+          {
+            "type": "content_diversification",
+            "action": "将博客/文章内容纳入分发矩阵",
+            "impact": "medium",
+            "effort": "medium"
+          },
+          {
+            "type": "growth_experiment",
+            "action": "实施 1-2 个增长实验（如 Product Hunt 发布、Reddit 推广）",
+            "impact": "high",
+            "effort": "high"
+          }
+        ]
+      },
+      {
+        "slug": "humanize-ai-text",
+        "displayName": "Humanize AI text",
+        "summary": "Humanize AI-generated text to bypass detection. This humanizer rewrites ChatGPT, Claude, and GPT content to sound natural and pass AI detectors like GPTZero,...",
+        "score": 47,
+        "alreadyIntegrated": false,
+        "clawhubUrl": "https://clawhub.ai/skills/humanize-ai-text",
+        "category": "content",
+        "recommendedActions": [
+          {
+            "type": "content_diversification",
+            "action": "将博客/文章内容纳入分发矩阵",
+            "impact": "medium",
+            "effort": "medium"
+          }
+        ]
+      },
+      {
+        "slug": "social-media-scheduler",
+        "displayName": "Social Media Scheduler",
+        "summary": "Plan, draft, and organize social media content across platforms. Create content calendars, write platform-optimized posts, and maintain consistent posting schedules.",
+        "score": 45,
+        "alreadyIntegrated": false,
+        "clawhubUrl": "https://clawhub.ai/skills/social-media-scheduler",
+        "category": "social-media",
+        "recommendedActions": [
+          {
+            "type": "channel_expansion",
+            "action": "将 Twitter/社交媒体发帖纳入每日流程",
+            "impact": "high",
+            "effort": "medium"
+          },
+          {
+            "type": "content_diversification",
+            "action": "将博客/文章内容纳入分发矩阵",
+            "impact": "medium",
+            "effort": "medium"
+          }
+        ]
+      }
+    ],
+    "configUpdates": [],
+    "priorityActions": []
+  },
+  "systemConfig": {
+    "version": "1.0",
+    "lastUpdated": "2026-03-23T00:38:26.166Z",
+    "integratedTactics": [
+      {
+        "slug": "marketing-skills",
+        "displayName": "Marketing Skills",
+        "addedAt": "20260323",
+        "score": 63,
+        "reason": "在 README 中增加关键词密度，优化搜索引擎排名",
+        "status": "passive"
+      },
+      {
+        "slug": "brave-search",
+        "displayName": "Brave Search",
+        "addedAt": "20260323",
+        "score": 62,
+        "reason": "将博客/文章内容纳入分发矩阵",
+        "status": "passive"
+      },
+      {
+        "slug": "youtube-watcher",
+        "displayName": "YouTube Watcher",
+        "addedAt": "20260323",
+        "score": 62,
+        "reason": "将博客/文章内容纳入分发矩阵",
+        "status": "passive"
+      },
+      {
+        "slug": "mailchimp",
+        "displayName": "Mailchimp",
+        "addedAt": "20260323",
+        "score": 58,
+        "reason": "建立邮件订阅流水线",
+        "status": "passive"
+      },
+      {
+        "slug": "google-slides",
+        "displayName": "Google Slides",
+        "addedAt": "20260323",
+        "score": 56,
+        "reason": "将博客/文章内容纳入分发矩阵",
+        "status": "passive"
+      },
+      {
+        "slug": "frontend-design-ultimate",
+        "displayName": "Frontend Design Ultimate",
+        "addedAt": "20260323",
+        "score": 51,
+        "reason": "记录该技能，持续关注其发展",
+        "status": "passive"
+      },
+      {
+        "slug": "google-analytics",
+        "displayName": "Google Analytics",
+        "addedAt": "20260323",
+        "score": 50,
+        "reason": "扩展 analytics_tracker.mjs，接入更多追踪指标",
+        "status": "passive"
+      }
+    ],
+    "activeChannels": [
+      "github",
+      "content"
+    ],
+    "contentStrategy": {
+      "primaryFormat": "thread",
+      "postingFrequency": "daily",
+      "focusAreas": [
+        "ai-agents",
+        "github-trending",
+        "tool-releases"
+      ]
+    },
+    "evolutionHistory": [],
+    "monetization": {
+      "currentStage": "seeds",
+      "nextMilestone": {
+        "target": 100,
+        "milestone": "tool-sponsorships"
+      },
+      "actionsTaken": []
+    }
+  },
+  "generatedAt": "2026-03-24T06:44:21.061Z"
+}

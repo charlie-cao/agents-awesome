@@ -21,8 +21,30 @@
         }
       ],
       "integrated": 7
+    },
+    {
+      "date": "20260324",
+      "skillsFound": 40,
+      "topRecommendations": [
+        {
+          "slug": "marketing-skills",
+          "displayName": "Marketing Skills",
+          "score": 63
+        },
+        {
+          "slug": "brave-search",
+          "displayName": "Brave Search",
+          "score": 62
+        },
+        {
+          "slug": "youtube-watcher",
+          "displayName": "YouTube Watcher",
+          "score": 62
+        }
+      ],
+      "integrated": 7
     }
   ],
-  "totalSkillsFound": 40,
+  "totalSkillsFound": 80,
   "integratedSkills": []
 }

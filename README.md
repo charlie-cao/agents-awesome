@@ -126,6 +126,7 @@ SDKs, platforms, and tools for building AI agents. Essential references for anyo
 | [**ClawHub**](https://github.com/openclaw/clawhub) | 6.6k+ | Official skill registry. 3,200+ skills, vector search, CLI install. "npm for AI agents." |
 | [**awesome-openclaw-agents**](https://github.com/mergisi/awesome-openclaw-agents) | 160+ | 160+ SOUL.md templates, 24 categories. |
 | [**awesome-openclaw-skills**](https://github.com/sundial-org/awesome-openclaw-skills) | 900+ | 913 curated skills across 20 categories. |
+| [**🦞 龙虾驱动 ComfyUI 完全教程**](🦞龙虾驱动ComfyUI完全教程.md) | - | 本地 AI 画图机器人：OpenClaw 聊天 → ComfyUI 自动出图，零基础 15 分钟配置 |
 
 ---
 
