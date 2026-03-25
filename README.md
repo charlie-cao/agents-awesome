@@ -72,6 +72,7 @@ Collections of specialized AI agent personalities with defined roles, workflows,
 |---------|-------|-------------|
 | [**The Agency (agency-agents)**](https://github.com/msitarzewski/agency-agents) | 59k+ | 144+ specialized agent personas across 12 divisions (Engineering, Design, Marketing, Sales, etc.). Each agent has personality, processes, and proven deliverables. Supports Claude Code, Cursor, Copilot, Aider, Windsurf, OpenCode. |
 | [**awesome-openclaw-agents**](https://github.com/mergisi/awesome-openclaw-agents) | 160+ | Production-ready OpenClaw agent templates with SOUL.md configs across 24 categories. Deploy in 60 seconds. CrewClaw integration for Docker deployment. |
+| [**📝 Complete Guide: agency-agents + VS Code Copilot Agent Mode**](content/articles/seo_article_agency_copilot_20260325.md) | — | Step-by-step tutorial: install 140+ expert personas, enable Copilot Agent Mode in VS Code Insiders, and run multi-agent workflows with handoff. |
 
 ---
 
