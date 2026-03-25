@@ -1,0 +1,37 @@
+{
+  "generated": "2026-03-24T17:04:52.850Z",
+  "tweets": [
+    {
+      "type": "thread",
+      "content": "🔥 AI Agent 领域今日热点 (2026-03-24)\n\nGitHub 上最火热的 5 个项目，开发者必看 👇"
+    },
+    {
+      "type": "thread",
+      "content": "1. dify\n\n⭐ 133940 | 📝 TypeScript | #agent #agentic-ai #agentic-framework\n\nProduction-ready platform for agentic workflow development...."
+    },
+    {
+      "type": "thread",
+      "content": "2. langchain\n\n⭐ 130578 | 📝 Python | #agents #ai #ai-agents\n\nThe agent engineering platform..."
+    },
+    {
+      "type": "thread",
+      "content": "3. markitdown\n\n⭐ 91639 | 📝 Python | #autogen #autogen-extension #langchain\n\nPython tool for converting files and office documents to Markdown...."
+    },
+    {
+      "type": "thread",
+      "content": "4. MetaGPT\n\n⭐ 65801 | 📝 Python | #agent #gpt #llm\n\n🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming..."
+    },
+    {
+      "type": "thread",
+      "content": "5. cline\n\n⭐ 59238 | 📝 TypeScript | \n\nAutonomous coding agent right in your IDE, capable of creating/editing files, executing commands, us..."
+    },
+    {
+      "type": "thread",
+      "content": "📋 完整榜单 & 更多分类（框架/ Skills / MCP / LLM）:\ngithub.com/langgenius/agents-awesome\n\n#AI #AI Agents #GitHub #OpenSource"
+    },
+    {
+      "type": "single",
+      "content": "🤖 今日 AI Agent GitHub 热点：Top 3 项目速览\n\n#1 ⭐ 133940 dify\n#2 ⭐ 130578 langchain\n#3 ⭐ 91639 markitdown\n\n完整榜单 → github.com/your-username/agents-awesome"
+    }
+  ]
+}

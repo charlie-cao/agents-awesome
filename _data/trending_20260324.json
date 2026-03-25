@@ -1,0 +1,1093 @@
+[
+  {
+    "name": "dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "stars": 133940,
+    "language": "TypeScript",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai"
+    ],
+    "owner": "langgenius"
+  },
+  {
+    "name": "langchain",
+    "description": "The agent engineering platform",
+    "stars": 130578,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework"
+    ],
+    "owner": "langchain-ai"
+  },
+  {
+    "name": "markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "stars": 91639,
+    "language": "Python",
+    "tags": [
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ],
+    "owner": "microsoft"
+  },
+  {
+    "name": "MetaGPT",
+    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+    "stars": 65801,
+    "language": "Python",
+    "tags": [
+      "agent",
+      "gpt",
+      "llm",
+      "metagpt",
+      "multi-agent"
+    ],
+    "owner": "FoundationAgents"
+  },
+  {
+    "name": "cline",
+    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "stars": 59238,
+    "language": "TypeScript",
+    "tags": [],
+    "owner": "cline"
+  },
+  {
+    "name": "autogen",
+    "description": "A programming framework for agentic AI",
+    "stars": 56009,
+    "language": "Python",
+    "tags": [
+      "agentic",
+      "agentic-agi",
+      "agents",
+      "ai",
+      "autogen",
+      "autogen-ecosystem",
+      "chatgpt",
+      "framework"
+    ],
+    "owner": "microsoft"
+  },
+  {
+    "name": "ai-agents-for-beginners",
+    "description": "12 Lessons to Get Started Building AI Agents",
+    "stars": 54659,
+    "language": "Jupyter Notebook",
+    "tags": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
+      "ai-agents",
+      "ai-agents-framework",
+      "autogen",
+      "generative-ai",
+      "semantic-kernel"
+    ],
+    "owner": "microsoft"
+  },
+  {
+    "name": "Flowise",
+    "description": "Build AI Agents, Visually",
+    "stars": 50976,
+    "language": "TypeScript",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "javascript",
+      "langchain"
+    ],
+    "owner": "FlowiseAI"
+  },
+  {
+    "name": "crewAI",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "stars": 46838,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagentframework",
+      "llms"
+    ],
+    "owner": "crewAIInc"
+  },
+  {
+    "name": "oh-my-openagent",
+    "description": "omo; the best agent harness - previously oh-my-opencode",
+    "stars": 42368,
+    "language": "TypeScript",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "amp",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "claude-skills"
+    ],
+    "owner": "code-yeongyu"
+  },
+  {
+    "name": "cherry-studio",
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "stars": 42053,
+    "language": "TypeScript",
+    "tags": [
+      "agency-agents",
+      "ai-agent",
+      "claude-code",
+      "codex",
+      "open-cli",
+      "openclaw",
+      "opencode",
+      "skills"
+    ],
+    "owner": "CherryHQ"
+  },
+  {
+    "name": "litellm",
+    "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+    "stars": 39929,
+    "language": "Python",
+    "tags": [
+      "ai-gateway",
+      "anthropic",
+      "azure-openai",
+      "bedrock",
+      "gateway",
+      "langchain",
+      "litellm",
+      "llm"
+    ],
+    "owner": "BerriAI"
+  },
+  {
+    "name": "Langchain-Chatchat",
+    "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
+    "stars": 37593,
+    "language": "Python",
+    "tags": [
+      "chatbot",
+      "chatchat",
+      "chatglm",
+      "chatgpt",
+      "embedding",
+      "faiss",
+      "fastchat",
+      "gpt"
+    ],
+    "owner": "chatchat-space"
+  },
+  {
+    "name": "AgentGPT",
+    "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "stars": 35864,
+    "language": "TypeScript",
+    "tags": [
+      "agent",
+      "agentgpt",
+      "agents",
+      "agi",
+      "ai",
+      "ai-agents",
+      "autogpt",
+      "baby-agi"
+    ],
+    "owner": "reworkd"
+  },
+  {
+    "name": "LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
+    "stars": 34844,
+    "language": "TypeScript",
+    "tags": [
+      "ai",
+      "anthropic",
+      "artifacts",
+      "aws",
+      "azure",
+      "chatgpt",
+      "chatgpt-clone",
+      "claude"
+    ],
+    "owner": "danny-avila"
+  },
+  {
+    "name": "langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "stars": 146052,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent",
+      "react-flow"
+    ],
+    "owner": "langflow-ai"
+  },
+  {
+    "name": "dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "stars": 133940,
+    "language": "TypeScript",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai"
+    ],
+    "owner": "langgenius"
+  },
+  {
+    "name": "system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "stars": 132639,
+    "language": null,
+    "tags": [
+      "ai",
+      "bolt",
+      "cluely",
+      "copilot",
+      "cursor",
+      "cursorai",
+      "devin",
+      "github-copilot"
+    ],
+    "owner": "x1xhlol"
+  },
+  {
+    "name": "langchain",
+    "description": "The agent engineering platform",
+    "stars": 130578,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework"
+    ],
+    "owner": "langchain-ai"
+  },
+  {
+    "name": "opencode",
+    "description": "The open source coding agent.",
+    "stars": 127894,
+    "language": "TypeScript",
+    "tags": [],
+    "owner": "anomalyco"
+  },
+  {
+    "name": "superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "stars": 104619,
+    "language": "Shell",
+    "tags": [],
+    "owner": "obra"
+  },
+  {
+    "name": "awesome-llm-apps",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "stars": 103136,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "llms",
+      "python",
+      "rag"
+    ],
+    "owner": "Shubhamsaboo"
+  },
+  {
+    "name": "skills",
+    "description": "Public repository for Agent Skills",
+    "stars": 99841,
+    "language": "Python",
+    "tags": [
+      "agent-skills"
+    ],
+    "owner": "anthropics"
+  },
+  {
+    "name": "gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "stars": 98678,
+    "language": "TypeScript",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "cli",
+      "gemini",
+      "gemini-api",
+      "mcp-client",
+      "mcp-server"
+    ],
+    "owner": "google-gemini"
+  },
+  {
+    "name": "everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 96892,
+    "language": "JavaScript",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "owner": "affaan-m"
+  },
+  {
+    "name": "browser-use",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "stars": 82285,
+    "language": "Python",
+    "tags": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "owner": "browser-use"
+  },
+  {
+    "name": "claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "stars": 81221,
+    "language": "Shell",
+    "tags": [],
+    "owner": "anthropics"
+  },
+  {
+    "name": "ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "stars": 75785,
+    "language": "Python",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-search",
+      "context-engineering",
+      "context-retrieval"
+    ],
+    "owner": "infiniflow"
+  },
+  {
+    "name": "lobehub",
+    "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+    "stars": 74097,
+    "language": "TypeScript",
+    "tags": [
+      "agent",
+      "agent-collaboration",
+      "agent-harness",
+      "ai",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "gemini"
+    ],
+    "owner": "lobehub"
+  },
+  {
+    "name": "Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+    "stars": 72083,
+    "language": "MDX",
+    "tags": [
+      "agent",
+      "agents",
+      "ai-agents",
+      "chatgpt",
+      "deep-learning",
+      "generative-ai",
+      "language-model",
+      "llms"
+    ],
+    "owner": "dair-ai"
+  },
+  {
+    "name": "everything-claude-code",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "stars": 96899,
+    "language": "JavaScript",
+    "tags": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ],
+    "owner": "affaan-m"
+  },
+  {
+    "name": "ragflow",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "stars": 75785,
+    "language": "Python",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-ai",
+      "agentic-workflow",
+      "ai",
+      "ai-search",
+      "context-engineering",
+      "context-retrieval"
+    ],
+    "owner": "infiniflow"
+  },
+  {
+    "name": "mem0",
+    "description": "Universal memory layer for AI Agents",
+    "stars": 50704,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "application",
+      "chatbots",
+      "chatgpt",
+      "genai",
+      "llm"
+    ],
+    "owner": "mem0ai"
+  },
+  {
+    "name": "deer-flow",
+    "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 34636,
+    "language": "Python",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "bytedance",
+      "deep-research"
+    ],
+    "owner": "bytedance"
+  },
+  {
+    "name": "graphrag",
+    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+    "stars": 31684,
+    "language": "Python",
+    "tags": [
+      "gpt",
+      "gpt-4",
+      "gpt4",
+      "graphrag",
+      "llm",
+      "llms",
+      "rag"
+    ],
+    "owner": "microsoft"
+  },
+  {
+    "name": "LightRAG",
+    "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+    "stars": 29948,
+    "language": "Python",
+    "tags": [
+      "genai",
+      "gpt",
+      "gpt-4",
+      "graphrag",
+      "knowledge-graph",
+      "large-language-models",
+      "llm",
+      "rag"
+    ],
+    "owner": "HKUDS"
+  },
+  {
+    "name": "RAG_Techniques",
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+    "stars": 26170,
+    "language": "Jupyter Notebook",
+    "tags": [
+      "ai",
+      "langchain",
+      "llama-index",
+      "llm",
+      "llms",
+      "opeani",
+      "python",
+      "rag"
+    ],
+    "owner": "NirDiamant"
+  },
+  {
+    "name": "nanoclaw",
+    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+    "stars": 24866,
+    "language": "TypeScript",
+    "tags": [
+      "ai-agents",
+      "ai-assistant",
+      "claude-code",
+      "claude-skills",
+      "openclaw"
+    ],
+    "owner": "qwibitai"
+  },
+  {
+    "name": "haystack",
+    "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+    "stars": 24586,
+    "language": "MDX",
+    "tags": [
+      "agent",
+      "agents",
+      "ai",
+      "gemini",
+      "generative-ai",
+      "gpt-4",
+      "information-retrieval",
+      "large-language-models"
+    ],
+    "owner": "deepset-ai"
+  },
+  {
+    "name": "graphiti",
+    "description": "Build Real-Time Knowledge Graphs for AI Agents",
+    "stars": 24078,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "graph",
+      "llms",
+      "rag"
+    ],
+    "owner": "getzep"
+  },
+  {
+    "name": "letta",
+    "description": "Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.",
+    "stars": 21700,
+    "language": "Python",
+    "tags": [
+      "ai",
+      "ai-agents",
+      "llm",
+      "llm-agent"
+    ],
+    "owner": "letta-ai"
+  },
+  {
+    "name": "beads",
+    "description": "Beads - A memory upgrade for your coding agent",
+    "stars": 19489,
+    "language": "Go",
+    "tags": [
+      "agents",
+      "claude-code",
+      "coding"
+    ],
+    "owner": "steveyegge"
+  },
+  {
+    "name": "12-factor-agents",
+    "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+    "stars": 18856,
+    "language": "TypeScript",
+    "tags": [
+      "12-factor",
+      "12-factor-agents",
+      "agents",
+      "ai",
+      "context-window",
+      "framework",
+      "llms",
+      "memory"
+    ],
+    "owner": "humanlayer"
+  },
+  {
+    "name": "GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "stars": 18750,
+    "language": "TypeScript",
+    "tags": [],
+    "owner": "abhigyanpatwari"
+  },
+  {
+    "name": "OpenViking",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "stars": 17820,
+    "language": "Python",
+    "tags": [
+      "agent",
+      "agentic-rag",
+      "ai-agents",
+      "clawbot",
+      "context-database",
+      "context-engineering",
+      "filesystem",
+      "llm"
+    ],
+    "owner": "volcengine"
+  },
+  {
+    "name": "n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "stars": 180479,
+    "language": "TypeScript",
+    "tags": [
+      "ai",
+      "apis",
+      "automation",
+      "cli",
+      "data-flow",
+      "development",
+      "integration-framework",
+      "integrations"
+    ],
+    "owner": "n8n-io"
+  },
+  {
+    "name": "langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "stars": 146052,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent",
+      "react-flow"
+    ],
+    "owner": "langflow-ai"
+  },
+  {
+    "name": "dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "stars": 133940,
+    "language": "TypeScript",
+    "tags": [
+      "agent",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "automation",
+      "gemini",
+      "genai"
+    ],
+    "owner": "langgenius"
+  },
+  {
+    "name": "browser-use",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "stars": 82288,
+    "language": "Python",
+    "tags": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "owner": "browser-use"
+  },
+  {
+    "name": "claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "stars": 81222,
+    "language": "Shell",
+    "tags": [],
+    "owner": "anthropics"
+  },
+  {
+    "name": "ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "stars": 68367,
+    "language": "Python",
+    "tags": [
+      "ansible",
+      "python"
+    ],
+    "owner": "ansible"
+  },
+  {
+    "name": "cline",
+    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "stars": 59239,
+    "language": "TypeScript",
+    "tags": [],
+    "owner": "cline"
+  },
+  {
+    "name": "MinerU",
+    "description": "Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "stars": 56808,
+    "language": "Python",
+    "tags": [
+      "ai4science",
+      "document-analysis",
+      "extract-data",
+      "layout-analysis",
+      "ocr",
+      "parser",
+      "pdf",
+      "pdf-converter"
+    ],
+    "owner": "opendatalab"
+  },
+  {
+    "name": "n8n-workflows",
+    "description": "all of the workflows of n8n i could find (also from the site itself)",
+    "stars": 53124,
+    "language": "Python",
+    "tags": [],
+    "owner": "Zie619"
+  },
+  {
+    "name": "Flowise",
+    "description": "Build AI Agents, Visually",
+    "stars": 50976,
+    "language": "TypeScript",
+    "tags": [
+      "agentic-ai",
+      "agentic-workflow",
+      "agents",
+      "artificial-intelligence",
+      "chatbot",
+      "chatgpt",
+      "javascript",
+      "langchain"
+    ],
+    "owner": "FlowiseAI"
+  },
+  {
+    "name": "huginn",
+    "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+    "stars": 48928,
+    "language": "Ruby",
+    "tags": [
+      "agent",
+      "automation",
+      "feed",
+      "feedgenerator",
+      "huginn",
+      "monitoring",
+      "notifications",
+      "rss"
+    ],
+    "owner": "huginn"
+  },
+  {
+    "name": "awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "stars": 46880,
+    "language": "Python",
+    "tags": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "composio"
+    ],
+    "owner": "ComposioHQ"
+  },
+  {
+    "name": "airflow",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "stars": 44743,
+    "language": "Python",
+    "tags": [
+      "airflow",
+      "apache",
+      "apache-airflow",
+      "automation",
+      "dag",
+      "data-engineering",
+      "data-integration",
+      "data-orchestrator"
+    ],
+    "owner": "apache"
+  },
+  {
+    "name": "ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "stars": 37635,
+    "language": "JavaScript",
+    "tags": [
+      "ai-app-builder",
+      "docker",
+      "hacktoberfest",
+      "internal-applications",
+      "internal-project",
+      "internal-tool",
+      "internal-tools",
+      "javascript"
+    ],
+    "owner": "ToolJet"
+  },
+  {
+    "name": "AgentGPT",
+    "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "stars": 35864,
+    "language": "TypeScript",
+    "tags": [
+      "agent",
+      "agentgpt",
+      "agents",
+      "agi",
+      "ai",
+      "ai-agents",
+      "autogpt",
+      "baby-agi"
+    ],
+    "owner": "reworkd"
+  },
+  {
+    "name": "langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "stars": 146052,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent",
+      "react-flow"
+    ],
+    "owner": "langflow-ai"
+  },
+  {
+    "name": "system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "stars": 132639,
+    "language": null,
+    "tags": [
+      "ai",
+      "bolt",
+      "cluely",
+      "copilot",
+      "cursor",
+      "cursorai",
+      "devin",
+      "github-copilot"
+    ],
+    "owner": "x1xhlol"
+  },
+  {
+    "name": "awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "stars": 83815,
+    "language": null,
+    "tags": [
+      "ai",
+      "mcp"
+    ],
+    "owner": "punkpeye"
+  },
+  {
+    "name": "servers",
+    "description": "Model Context Protocol Servers",
+    "stars": 81783,
+    "language": "TypeScript",
+    "tags": [],
+    "owner": "modelcontextprotocol"
+  },
+  {
+    "name": "claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "stars": 81222,
+    "language": "Shell",
+    "tags": [],
+    "owner": "anthropics"
+  },
+  {
+    "name": "text-generation-webui",
+    "description": "The original local LLM interface. Text, vision, tool-calling, training, and more. 100% offline.",
+    "stars": 46332,
+    "language": "Python",
+    "tags": [],
+    "owner": "oobabooga"
+  },
+  {
+    "name": "ToolJet",
+    "description": "ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "stars": 37635,
+    "language": "JavaScript",
+    "tags": [
+      "ai-app-builder",
+      "docker",
+      "hacktoberfest",
+      "internal-applications",
+      "internal-project",
+      "internal-tool",
+      "internal-tools",
+      "javascript"
+    ],
+    "owner": "ToolJet"
+  },
+  {
+    "name": "arthas",
+    "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "stars": 37198,
+    "language": "Java",
+    "tags": [
+      "agent",
+      "alibaba",
+      "arthas",
+      "classloader",
+      "diagnosis",
+      "java",
+      "jvm",
+      "trace"
+    ],
+    "owner": "alibaba"
+  },
+  {
+    "name": "deer-flow",
+    "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+    "stars": 34653,
+    "language": "Python",
+    "tags": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "bytedance",
+      "deep-research"
+    ],
+    "owner": "bytedance"
+  },
+  {
+    "name": "playwright-mcp",
+    "description": "Playwright MCP server",
+    "stars": 29443,
+    "language": "TypeScript",
+    "tags": [
+      "mcp",
+      "playwright"
+    ],
+    "owner": "microsoft"
+  },
+  {
+    "name": "github-mcp-server",
+    "description": "GitHub's official MCP Server",
+    "stars": 28144,
+    "language": "Go",
+    "tags": [
+      "github",
+      "mcp",
+      "mcp-server"
+    ],
+    "owner": "github"
+  },
+  {
+    "name": "composio",
+    "description": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+    "stars": 27467,
+    "language": "TypeScript",
+    "tags": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagents",
+      "developer-tools",
+      "function-calling",
+      "gpt-4"
+    ],
+    "owner": "ComposioHQ"
+  },
+  {
+    "name": "OmniParser",
+    "description": "A simple screen parsing tool towards pure vision based GUI agent",
+    "stars": 24565,
+    "language": "Jupyter Notebook",
+    "tags": [],
+    "owner": "microsoft"
+  },
+  {
+    "name": "fastmcp",
+    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+    "stars": 23895,
+    "language": "Python",
+    "tags": [
+      "agents",
+      "fastmcp",
+      "llms",
+      "mcp",
+      "mcp-clients",
+      "mcp-servers",
+      "mcp-tools",
+      "model-context-protocol"
+    ],
+    "owner": "PrefectHQ"
+  },
+  {
+    "name": "python-sdk",
+    "description": "The official Python SDK for Model Context Protocol servers and clients",
+    "stars": 22256,
+    "language": "Python",
+    "tags": [],
+    "owner": "modelcontextprotocol"
+  }
+]
